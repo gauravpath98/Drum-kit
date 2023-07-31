@@ -1,0 +1,52 @@
+h1{
+    font-family: 'Bungee Spice', cursive;
+    font-size: 120px;
+    text-align: center;
+}
+.drumSet{
+    /* display: flex; */
+    width: 80%;
+    margin-left: 11%;
+    border-style: solid;
+    border-color: red;
+}
+button{
+    height: 200px;
+    width: 200px;
+    font-size: 35px;
+    color: azure;
+    margin-left: 5px;
+    font-weight: 800;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+}
+.w{
+    background-color:#FFC34D ;
+    background-image: url("./Assets/images/drum2.png");
+}
+.a{
+    background-color:#a3ff4d ;
+    background-image: url("./Assets/images/drum4.png");
+}
+.s{
+    background-color:#4dffb2 ;
+    background-image: url("./Assets/images/drum2.png");
+}
+.d{
+    background-color:#4dc7ff ;
+    background-image: url("./Assets/images/drum4.png");
+}
+.j{
+    background-color:#ff714d ;
+    background-image: url("./Assets/images/drumset.png");
+}
+.k{
+    background-color:#4d7aff ;
+    background-image: url("./Assets/images/drumset.png");
+}
+.l{
+    background-color:#ff4d4d ;
+    background-image: url("./Assets/images/drumset.png");
+}
+body{
+    background-color: #2b2b2b;
+}
